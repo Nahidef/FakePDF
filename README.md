@@ -17,5 +17,7 @@ Kendi bilgisayarınızda veya izin verilen sistemlerde test edin
 
 🛠️ Nasıl Kullanılır?
 1.PDF dosyasını indirin:wget https://github.com/[KULLANICI_ADI]/FakePDF/raw/main/example.pdf
+
 2.Bir PDF okuyucuyla açın.
+
 3.Güvenlik testlerinizi yapın.
